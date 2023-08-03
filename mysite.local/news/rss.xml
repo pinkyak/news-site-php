@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <chanel>
+    <title>Последние новости</title>
+    <link>http://localhost:8888/news-site/mysite.local/news/news.php</link>
+    <item>
+      <title>tets2</title>
+      <category>Политика</category>
+      <description><![CDATA[test2]]></description>
+      <link>http://localhost:8888/news-site/mysite.local/news/news.php?id=11</link>
+      <pubDete>Fri, 28 Jul 2023 11:41:32 +0000</pubDete>
+    </item>
+    <item>
+      <title>TEST1</title>
+      <category>Политика</category>
+      <description><![CDATA[TEST1]]></description>
+      <link>http://localhost:8888/news-site/mysite.local/news/news.php?id=10</link>
+      <pubDete>Thu, 27 Jul 2023 17:56:55 +0000</pubDete>
+    </item>
+  </chanel>
+</rss>
